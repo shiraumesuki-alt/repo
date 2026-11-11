@@ -1,6 +1,6 @@
 // ==MiruExtension==
 // @name         girigiri爱动漫
-// @version      v0.3
+// @version      v0.32
 // @author       shiraume_suki
 // @lang         zh
 // @license      MIT
