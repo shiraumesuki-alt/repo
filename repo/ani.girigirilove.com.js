@@ -158,6 +158,10 @@ export default class extends Extension {
           });
         }
       }
+      // 追加封面原图链接
+      if (cover) {
+        extra += `\n\n—— 海报原图 ——\n${cover}`;
+      }
       desc = (desc || "") + extra;
     }
 
